@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+model_output/
+predictions/
+football_results/
+dist/
+build/
+*.egg-info/

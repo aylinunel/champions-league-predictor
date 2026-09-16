@@ -1,0 +1,24 @@
+[
+  {
+    "fold": 2,
+    "train_matches": 50,
+    "test_matches": 67,
+    "test_start": "2026-08-15 16:00:00+00:00",
+    "test_end": "2026-08-30 18:45:00+00:00",
+    "log_loss": 0.9554076573624,
+    "brier": 0.5498179851470425,
+    "baseline_log_loss": 1.0429579309250572,
+    "baseline_brier": 0.6306294668520175
+  },
+  {
+    "fold": 3,
+    "train_matches": 117,
+    "test_matches": 90,
+    "test_start": "2026-08-31 16:00:00+00:00",
+    "test_end": "2026-09-15 19:30:00+00:00",
+    "log_loss": 0.9403407943624974,
+    "brier": 0.5313914310492588,
+    "baseline_log_loss": 1.0385220886413637,
+    "baseline_brier": 0.6316936847590985
+  }
+]

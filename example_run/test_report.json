@@ -1,0 +1,17 @@
+{
+  "tests_passed": 11,
+  "test_command": "python -m unittest -v test_model.py",
+  "coverage": [
+    "temporal leakage",
+    "snapshot availability",
+    "inactive features",
+    "source deduplication",
+    "Dixon-Coles signs and normalization",
+    "corrected Monte Carlo sampling",
+    "aggregate orientation and no away-goals tiebreak",
+    "fixed knockout bracket",
+    "league table preservation and unresolved ties",
+    "model fitting and forecast guard",
+    "team aliases and market margin removal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "snapshot_as_of": "2026-09-15",
+  "distinct_matches": 207,
+  "cl_matches": 18,
+  "domestic_matches": 189,
+  "held_out_matches": 157,
+  "pooled_scores": {
+    "log_loss": 0.9467706021395258,
+    "brier": 0.5392549923521348,
+    "baseline_log_loss": 1.040415091399373,
+    "baseline_brier": 0.6312395280726372
+  },
+  "cl_held_out_matches": 18,
+  "cl_scores": {
+    "log_loss": 1.2434528701783198,
+    "brier": 0.6969641136985119,
+    "baseline_log_loss": 0.9481359049746649,
+    "baseline_brier": 0.5641950900861575
+  },
+  "note": "Exploratory test only; no independent re-verification of bundled upstream data. Unavailable contextual inputs were not fitted."
+}

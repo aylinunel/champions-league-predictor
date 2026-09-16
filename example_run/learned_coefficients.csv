@@ -1,0 +1,380 @@
+feature,coefficient
+intercept,0.4388957537218312
+observed_matches,-0.002059705366345305
+home_advantage,0.08151141495061702
+form_gf,0.0033547964218029057
+form_ga,0.012166018227900557
+form_points,0.005767435042852507
+form_shots,0.044503920082068035
+form_shots_on_target,0.013369183768128548
+form_corners,0.004065643823481626
+form_possession_pct,0.04272283775419787
+form_pass_accuracy,0.027079858849249388
+form_fouls,0.03333089752281328
+form_offsides,0.014252881400164358
+form_saves,-0.010288199104289387
+form_yellow_cards,-0.021418793090095204
+form_red_cards,-0.006102251523408933
+observed_rest_days,-0.020866985233808255
+observed_matches_7d,0.04426699348878772
+observed_matches_14d,-0.0003965643030656968
+observed_matches_21d,0.02600940308373737
+observed_matches_30d,0.021544872202340526
+schedule_load,0.01334812374704764
+unbeaten_run,0.020777795295767516
+domestic_form,0.0018910445046157838
+domestic_sample,-0.002059705366345305
+h2h_form,-0.0007586756248963516
+h2h_sample,0.01594563154381992
+opponent_observed_matches,-0.012797087263224692
+opponent_form_gf,-0.09158902193439798
+opponent_form_ga,0.015292381439253445
+opponent_form_points,-0.007754151978881533
+opponent_form_shots,0.0047400528801440035
+opponent_form_shots_on_target,-0.01939639676626648
+opponent_form_corners,-0.020487923000537596
+opponent_form_possession_pct,-0.0026341651191367625
+opponent_form_pass_accuracy,0.006396435988022002
+opponent_form_fouls,-0.026035825017014253
+opponent_form_offsides,0.007791542167270222
+opponent_form_saves,-0.043913671737999066
+opponent_form_yellow_cards,0.015300056707965456
+opponent_form_red_cards,-0.04646049578281259
+opponent_observed_rest_days,-0.05979514196546235
+opponent_observed_matches_7d,0.012378193319387953
+opponent_observed_matches_14d,-0.029915078614355724
+opponent_observed_matches_21d,-0.025578016810521895
+opponent_observed_matches_30d,-0.0011214847149984882
+opponent_schedule_load,-0.010131962667467272
+opponent_unbeaten_run,-0.0045314565011138055
+opponent_domestic_form,-0.01478589898785996
+opponent_domestic_sample,-0.012797087263224692
+opponent_h2h_form,-0.01902160758460797
+opponent_h2h_sample,0.01594563154381992
+observed_matches__missing,0.0
+home_advantage__missing,0.0
+form_gf__missing,-0.0097412454861826
+form_ga__missing,-0.0097412454861826
+form_points__missing,-0.0097412454861826
+form_shots__missing,-0.022251636194944753
+form_shots_on_target__missing,-0.022251636194944753
+form_corners__missing,-0.022251636194944753
+form_possession_pct__missing,-0.022251636194944753
+form_pass_accuracy__missing,-0.016469938471405692
+form_fouls__missing,-0.022251636194944753
+form_offsides__missing,-0.022251636194944753
+form_saves__missing,-0.022251636194944753
+form_yellow_cards__missing,-0.022251636194944753
+form_red_cards__missing,-0.022251636194944753
+observed_rest_days__missing,-0.0097412454861826
+observed_matches_7d__missing,0.0
+observed_matches_14d__missing,0.0
+observed_matches_21d__missing,0.0
+observed_matches_30d__missing,0.0
+schedule_load__missing,0.0
+unbeaten_run__missing,0.0
+domestic_form__missing,0.0
+domestic_sample__missing,0.0
+h2h_form__missing,0.0
+h2h_sample__missing,0.0
+opponent_observed_matches__missing,0.0
+opponent_form_gf__missing,0.02888748954002026
+opponent_form_ga__missing,0.02888748954002026
+opponent_form_points__missing,0.02888748954002026
+opponent_form_shots__missing,0.019136016951712517
+opponent_form_shots_on_target__missing,0.019136016951712517
+opponent_form_corners__missing,0.019136016951712517
+opponent_form_possession_pct__missing,0.019136016951712517
+opponent_form_pass_accuracy__missing,0.019986973451132314
+opponent_form_fouls__missing,0.019136016951712517
+opponent_form_offsides__missing,0.019136016951712517
+opponent_form_saves__missing,0.019136016951712517
+opponent_form_yellow_cards__missing,0.019136016951712517
+opponent_form_red_cards__missing,0.019136016951712517
+opponent_observed_rest_days__missing,0.02888748954002026
+opponent_observed_matches_7d__missing,0.0
+opponent_observed_matches_14d__missing,0.0
+opponent_observed_matches_21d__missing,0.0
+opponent_observed_matches_30d__missing,0.0
+opponent_schedule_load__missing,0.0
+opponent_unbeaten_run__missing,0.0
+opponent_domestic_form__missing,0.0
+opponent_domestic_sample__missing,0.0
+opponent_h2h_form__missing,0.0
+opponent_h2h_sample__missing,0.0
+attack=aalesund,-0.0014359752143330076
+attack=academico de viseu,-0.004473982186188089
+attack=ado den haag,0.005064095223813925
+attack=aek athens,0.006709782615049885
+attack=afc bournemouth,-0.002374001517043386
+attack=aj auxerre,0.0020479182916911323
+attack=alaves,-0.0009482944813976252
+attack=alverca,-0.0066481957203701125
+attack=angers,-0.008110786406653449
+attack=araz pfk,-0.00828876870296764
+attack=arouca,-0.0037367803127227183
+attack=arsenal,0.002548710660240872
+attack=aston villa,-0.010144274257486095
+attack=athletic club,-0.00365283638282127
+attack=atletico madrid,0.004279871194118215
+attack=austria vienna,-0.004464224350537029
+attack=banik ostrava,-0.004295176412456009
+attack=banska bystrica,-0.006857069292043053
+attack=barcelona,0.018250780542793364
+attack=bayern munich,0.014829974835644043
+attack=bodo glimt,0.0028233893008404436
+attack=bohemians 1905,0.00451564950302767
+attack=borussia dortmund,0.0009720751236907812
+attack=borussia monchengladbach,-0.007082332549955054
+attack=brighton hove albion,0.009893573533743394
+attack=cagliari,-0.005466079598380664
+attack=cercle brugge ksv,-0.003749627538454494
+attack=club brugge,-0.010111886542003418
+attack=como,-0.0008736270836451184
+attack=corum fk,0.0021074492101048506
+attack=coventry city,-0.006786529088523395
+attack=crystal palace,-0.0007011160394365806
+attack=elche,-0.008021511235174634
+attack=epitsentr kamianets podilskyi,-0.004425436243398005
+attack=erzurum bb,-0.005875727216674743
+attack=espanyol,-0.0034474232670130282
+attack=estrela,0.0009621197250520607
+attack=excelsior,-0.0005508783653342924
+attack=fc groningen,-0.00012228785218990957
+attack=fc kosice,-0.00041500305247884814
+attack=fc utrecht,-0.0001641990251518781
+attack=fenerbahce,-0.004892512115937389
+attack=feyenoord,-5.5904472752771214e-05
+attack=fiorentina,-0.006782584121746214
+attack=fortuna sittard,0.0018570549649107077
+attack=fredrikstad,-0.00266743113101051
+attack=galatasaray,-0.0007817213908492321
+attack=genclerbirligi,0.0009701387823228334
+attack=genoa,-0.007916181840766454
+attack=go ahead eagles,0.0029611496731453257
+attack=goztepe,0.005351395285777843
+attack=grazer ak,-0.0059135718869820384
+attack=hamarkameratene,-0.002275643807446245
+attack=hamburg sv,-0.007087376540892014
+attack=hull city,0.0008760849467652033
+attack=ik start,-0.0010811903499657167
+attack=inter milan,0.0060742246170630305
+attack=ipswich town,0.0021765046554376283
+attack=iraklis,-0.006770180042626471
+attack=kaa gent,0.004544059335897408
+attack=kfum oslo,-0.005473591098488183
+attack=kifisia,-0.0006092131593426268
+attack=konyaspor,0.0036180830226897874
+attack=kristiansund bk,-0.00329925957517189
+attack=kudrivka,-0.001991764223274893
+attack=kv kortrijk,-0.006079500203049645
+attack=lask,0.008732203572916136
+attack=lecce,-0.003960822371231704
+attack=lens,0.009427059447703931
+attack=levante,0.017227497701884996
+attack=lille,0.0021889108241947316
+attack=lillestrom,-0.004991381824333606
+attack=liverpool,-0.002185505013902121
+attack=malaga,-0.01108958527953315
+attack=manchester city,0.008095317997823271
+attack=manchester united,0.0029100584362974657
+attack=metalist 1925,-0.004944529637497366
+attack=molde,0.00027660597530419995
+attack=monza,-0.002214650670556188
+attack=napoli,-9.773238659477185e-05
+attack=newcastle united,0.0008623994484010594
+attack=nottingham forest,0.004579514779343361
+attack=oh leuven,-0.004720210014345774
+attack=pardubice,0.0006305793778523331
+attack=paris saint germain,0.0026006025305864242
+attack=podbrezova,-0.003983068273034206
+attack=polissya zhytomyr,0.004533371516275649
+attack=porto,0.0021747219979415216
+attack=psv eindhoven,0.020249274806186785
+attack=racing santander,0.000948595547026625
+attack=rayo vallecano,0.005527919857735682
+attack=rb leipzig,0.005613910805763912
+attack=real betis,-0.00828814223011991
+attack=real madrid,0.008784447328208832
+attack=real sociedad,-0.007996071481012347
+attack=rio ave,-0.009591017380773788
+attack=roma,0.017217493406049434
+attack=rosenborg,0.01042568737630026
+attack=ruzomberok,-0.00416824340369342
+attack=sabah,-0.002346799951292677
+attack=samsunspor,-0.004337745659836586
+attack=sandefjord,-0.0033415768018335073
+attack=sarpsborg fk,0.000112596855909163
+attack=sc cambuur,0.0031343182249829347
+attack=sc rheindorf altach,-0.003432045120811833
+attack=sevilla,0.0006360147053167805
+attack=shakhtar donetsk,-0.00043704126265203016
+attack=sk brann,0.003212720203432361
+attack=slavia prague,0.016795435248343656
+attack=slovacko,-0.001995897591807972
+attack=slovan bratislava,0.018837832915701676
+attack=slovan liberec,-0.0005731023189046983
+attack=sparta prague,-0.005534461842650326
+attack=sparta rotterdam,-0.007646490859106626
+attack=sporting cp,0.01120143992071096
+attack=stade rennais,0.0008671997081493908
+attack=strasbourg,0.004702505395751829
+attack=stuttgart,-0.0024161108973173484
+attack=sv josko ried,0.0003284176742271587
+attack=tromso,-0.002021126900281964
+attack=udinese,-0.003416001862028997
+attack=valencia,-0.006644287324572303
+attack=valerenga,-0.0010807547451713887
+attack=viking,0.0008068488681665883
+attack=villarreal,-0.006019591553603224
+attack=vitoria de guimaraes,0.0038101211899289975
+attack=wolfsberger,0.0005022712330128066
+attack=zemplin michalovce,0.004987698298150513
+competition=Austrian Bundesliga,-0.004246948878174798
+competition=Azerbaijani Premier League,-0.010635568654260314
+competition=Belgian Pro League,-0.020117164961955925
+competition=Bundesliga,0.00483014077693432
+competition=Czech First League,0.009543025963404651
+competition=Eliteserien,-0.010010082868082998
+competition=Eredivisie,0.024726132318504204
+competition=Greek Super League,-0.0006696105869192115
+competition=LaLiga,-0.0004526163581629918
+competition=Ligue 1,0.013723409791423988
+competition=Portuguese Primeira Liga,-0.00630157276642117
+competition=Premier League,0.009750738541660673
+competition=Serie A,-0.007435961911837649
+competition=Slovak Super Liga,0.00840214719260266
+competition=Turkish Super Lig,-0.003840640082402637
+competition=Ukrainian Premier League,-0.007265399850546644
+defence=aalesund,-0.003587857734724723
+defence=academico de viseu,0.001945062152368083
+defence=ado den haag,-0.004936422447097981
+defence=aek athens,-0.0073793932019690965
+defence=afc bournemouth,0.000840123102526664
+defence=aj auxerre,0.014288895362102491
+defence=alaves,-0.010283008811361868
+defence=alverca,0.0031734542441283283
+defence=angers,0.002090507738763042
+defence=araz pfk,-0.002346799951292677
+defence=arouca,-0.0008153318212075332
+defence=arsenal,-0.010076257972684435
+defence=aston villa,0.007087845642040006
+defence=athletic club,-0.0033676645679389444
+defence=atletico madrid,-0.003911131053493128
+defence=austria vienna,-0.003357249532299969
+defence=banik ostrava,0.008185440241134927
+defence=banska bystrica,0.009430822786224037
+defence=barcelona,-0.0061464277602602205
+defence=bayern munich,-0.0024161108973173484
+defence=bodo glimt,-0.011035993651983388
+defence=bohemians 1905,-0.002656916676113036
+defence=borussia dortmund,-0.007087376540892014
+defence=borussia monchengladbach,0.005613910805763912
+defence=brighton hove albion,-0.006854545373325056
+defence=cagliari,-0.003919643821277041
+defence=cercle brugge ksv,-0.009688692848240194
+defence=club brugge,-0.010005278419952508
+defence=como,-0.005756231845193965
+defence=corum fk,0.0009724842919026892
+defence=coventry city,0.00535443855194426
+defence=crystal palace,0.007255194895296605
+defence=elche,0.015685862399915828
+defence=epitsentr kamianets podilskyi,0.0004886492483778676
+defence=erzurum bb,-0.0007428263202251976
+defence=espanyol,0.0021342818408207538
+defence=estrela,0.001991349464473416
+defence=excelsior,-0.003593907249092706
+defence=fc groningen,0.009270359096636685
+defence=fc kosice,-0.000303094886383339
+defence=fc utrecht,0.014008409143141526
+defence=fenerbahce,0.0002504761451760341
+defence=feyenoord,0.00351307226283556
+defence=fiorentina,0.010022708312020229
+defence=fortuna sittard,0.0005644138155012842
+defence=fredrikstad,-0.005211383449901403
+defence=galatasaray,0.0015831172792079512
+defence=genclerbirligi,-0.0021697582106276936
+defence=genoa,0.002242497596570195
+defence=go ahead eagles,-0.004460750382766547
+defence=goztepe,-0.0010113793625267235
+defence=grazer ak,0.004801488580712576
+defence=hamarkameratene,0.0036841589745336767
+defence=hamburg sv,0.0009720751236907812
+defence=hull city,-0.006901798885261696
+defence=ik start,0.016162089571360033
+defence=inter milan,-0.007680730268936852
+defence=ipswich town,0.009811857321559161
+defence=iraklis,0.009934944240507981
+defence=kaa gent,-0.00854619556010461
+defence=kfum oslo,-0.00030515179734426476
+defence=kifisia,-0.0032251616254580957
+defence=konyaspor,0.0002954896334454601
+defence=kristiansund bk,0.0022544895487007937
+defence=kudrivka,0.013043620354160568
+defence=kv kortrijk,0.005253357885643947
+defence=lask,-0.012979152451090936
+defence=lecce,0.007194785094029205
+defence=lens,0.006750423687442961
+defence=levante,-0.0006498447477414946
+defence=lille,-0.00760068800463061
+defence=lillestrom,-0.0021809392385317033
+defence=liverpool,0.005441914227744422
+defence=malaga,0.00419196934293364
+defence=manchester city,-0.0030751175564799676
+defence=manchester united,0.0030525896022028324
+defence=metalist 1925,-0.0041725207797742095
+defence=molde,-0.005148200119482369
+defence=monza,0.009993868438340074
+defence=napoli,-0.006529347360736483
+defence=newcastle united,0.0021498237448109884
+defence=nottingham forest,-0.00433532875871311
+defence=oh leuven,0.002869643980697436
+defence=pardubice,-0.0006776854274835993
+defence=paris saint germain,0.0009656027935810804
+defence=podbrezova,0.002988737155200888
+defence=polissya zhytomyr,-0.009796790085416255
+defence=porto,-0.018332436969720277
+defence=psv eindhoven,0.0010196897222346274
+defence=racing santander,0.002157708265573119
+defence=rayo vallecano,0.005932582710816483
+defence=rb leipzig,-0.007082332549955054
+defence=real betis,0.003780076597603723
+defence=real madrid,-0.00907709149685412
+defence=real sociedad,-9.38311592620836e-05
+defence=rio ave,0.006355699928793154
+defence=roma,-0.010743406492977918
+defence=rosenborg,-0.0018678938737086126
+defence=ruzomberok,0.012521073638956538
+defence=sabah,-0.00828876870296764
+defence=samsunspor,-0.0030182435387551563
+defence=sandefjord,-0.0005313064777017627
+defence=sarpsborg fk,-0.00884644529425532
+defence=sc cambuur,0.011645900130138227
+defence=sc rheindorf altach,0.0021397756362736167
+defence=sevilla,0.003111411938450157
+defence=shakhtar donetsk,-0.0068283585878946155
+defence=sk brann,0.0013791541868497167
+defence=slavia prague,-0.0072524092849390025
+defence=slovacko,0.012210917968448946
+defence=slovan bratislava,-0.010435685723099013
+defence=slovan liberec,-0.004966642606048149
+defence=sparta prague,0.004700321748404568
+defence=sparta rotterdam,-0.002304631773026469
+defence=sporting cp,-0.001345297715353373
+defence=stade rennais,0.0020905041285635873
+defence=strasbourg,-0.004861835914398559
+defence=stuttgart,0.014829974835644043
+defence=sv josko ried,0.003108863930727408
+defence=tromso,0.006086634526473135
+defence=udinese,-0.00226046156367509
+defence=valencia,-0.0041781767971248275
+defence=valerenga,-0.0022332827336673535
+defence=viking,0.0013718446953005442
+defence=villarreal,0.000260666939759993
+defence=vitoria de guimaraes,0.0007259279500970344
+defence=wolfsberger,0.002039324957502506
+defence=zemplin michalovce,-0.0057997057782964495
+european_attack=domestic,2.7665766157249843e-08
+european_home=none,2.7665766157249843e-08
+leg=single,2.7665766157249843e-08
+stage=domestic,2.7665766157249843e-08
